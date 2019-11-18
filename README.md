@@ -1,3 +1,6 @@
+# Fork changes:
+- use renderToString() instead of renderToStaticMarkup()
+
 # express-react-views
 
 This is an [Express][express] view engine which renders [React][react] components on server. It renders static markup and *does not* support mounting those views on the client.
